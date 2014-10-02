@@ -1,18 +1,17 @@
 # Site settings
 title: ¿Hay Acuerdo?
-email: prensa@ciudadanointeligente.org
-description: La Reforma Educacional nos importa a todos. Infórmate sobre los puntos de vista de diversos actores sociales con respecto a las posturas del Gobierno. Elige un actor y compara sus posiciones.
-baseurl: ""
-url: http://hayacuerdo.ciudadanointeligente.org/
+email: info@directoriolegislativo.org
+description: Nivel de acuerdo en el Congreso de la Nación Argentina
+baseurl: http://directoriolegislativo.github.io/hayacuerdo/
 # url: http://localhost:4000	#Development mode
-analytics: "UA-41822715-4"
+analytics: ""
 
 # Google Spreadsheet
-gsheet: "https://docs.google.com/spreadsheets/d/1j7XjeGe4OJ8vYtDwx_ipOvR0z5gsafVnh9b37-CJ58A/pubhtml"
+gsheet: "https://docs.google.com/spreadsheets/d/1WcgnjvqR__9gtfcD9Ru727vVaJX_OUdkbEUYi2rDxKg/pubhtml"
 
 #twitter
 twitter:
-  username: '@ciudadanoi'
+  username: '@desdewingu'
 
 # Build settings
 markdown: kramdown
